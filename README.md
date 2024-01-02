@@ -1,5 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/karimal-rashdan/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: karim.alrashdan@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 </div>
 
 ### Hi there, I'm Karim Al-Rashdan 👋🏽
