@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karimal-rashdan/"> 
@@ -9,6 +9,14 @@
     <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarimAl-Rashdan&color=e1aefc" alt="Profile Views"/>
+</div>
+<div id="introduction" align="center">
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Karim%20Al--Rashdan-e1aefc" height="30" width="200">
+</div>
+
+---
 
 ### Hi there, I'm Karim Al-Rashdan 👋🏽
 
