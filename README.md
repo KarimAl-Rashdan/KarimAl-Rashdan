@@ -10,10 +10,10 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimAl-Rashdan&color=e1aefc" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KarimAl-Rashdan&color=e4cffc" alt="Profile Views"/>
 </div>
 <div id="introduction" align="center">
-  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Karim%20Al--Rashdan%20👋🏽-e1aefc" height="30" width="200">
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Karim%20Al--Rashdan%20👋🏽-e4cffc" height="30" width="200">
 </div>
 
 --- 
