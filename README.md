@@ -23,7 +23,7 @@
 
 </div>
 
-<p align="center">I'm a Frontend Software Developer who is passionate about buidling exceptional user interfaces and experiences. With a strong background in UI/UX Design, I enjoy creating wireframes, interactive prototypes, and mockups to visualize and communicate design concepts.</p>
+<p align="center">I'm a Frontend Software Developer who is passionate about building exceptional user interfaces and experiences. With a strong background in UI/UX Design, I enjoy creating wireframes, interactive prototypes, and mockups to visualize and communicate design concepts.</p>
 
 <div align="center">
   
@@ -43,10 +43,10 @@
 </div>
 
 <p align="center">I'm a Front-End Engineer graduate from Turing School of Software & Design and a People's Engineer for Spoke. 🤓</p>
-<p align="center">I'm originally from Jordan but have spent most of my life in Chicago, IL. </p>
+<p align="center">I am Jordanian and Palestinian. I was born in Jordan and immigrated to the US during early childhood. I have spent most of my life in Chicago, IL, and I currently reside in sunny Denver, CO ⛰🌻. </p>
 <p align="center">~ A few of my hobbies are ~</p>
-<p align="center"><strong>Art!</strong> 🎨 I spend the majority of my free time creating over several different mediums. I enjoy creating through screen printing, ceramics, gouache and oil painting, embroidery, and nail art to name a few. One of my goals is to rent a space to make bigger and more involved art projects. </p>
-<p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country in a while but New Orleans and Jordan has been my favorite places to visit. </p>
+<p align="center"><strong>Art!</strong> 🎨 I spend the majority of my free time creating over several different mediums; I enjoy  screen printing, ceramics, gouache and oil painting, embroidery, and nail art to name a few. One of my goals is to rent a space to make bigger and more involved art projects. </p>
+<p align="center"><strong>Traveling!</strong> 🚐 I haven't left the country in a while but New Orleans and Jordan have been my favorite places to visit. </p>
 <p align="center"><strong>Dancing!</strong> 💃🏽 Some of my favorite dances are salsa celaña and vogueing.</p>
 <p align="center">Learning to code has been the best decision of my life so far. I'm beyond excited to see where this journey takes me! </p>
 <p align="center">Please feel free to reach out if you'd like to chat ☺️</p>
